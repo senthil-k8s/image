@@ -4,3 +4,5 @@
 
 ![navbar](https://github.com/senthil-k8s/image/assets/93466587/9b80b6a7-b5cf-4709-bc86-545a5487e6e6)
 ![navbar 1](https://github.com/senthil-k8s/image/assets/93466587/a11a1038-45d5-4926-a55a-1ca847999308)
+
+![nav for web](https://github.com/senthil-k8s/image/assets/93466587/5c6bb6e6-3bf9-4ea2-9260-f28c964f8d14)
